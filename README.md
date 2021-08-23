@@ -50,10 +50,19 @@ I am very curious so I would like to learn different technologies, languages and
 
 ## Find me
 
-![https://twitter.com/_griger](https://img.shields.io/badge/-griger-black?&logo=Twitter)
-![https://www.linkedin.com/in/gustavo-rivas-gervilla-22510a125/](https://img.shields.io/badge/-LinkedIn-black?&logo=linkedin)
+### Socials
 
-* My blog about tech & science (in Spanish): ![](https://img.shields.io/badge/-El%20taller%20de%20Fidias-black?&logo=WordPress)
-* The blog where I write poetry and short stories (in Spanish): ![https://orujoylimonadaalcalina.wordpress.com/](https://img.shields.io/badge/-Orujo%20y%20limonada%20alcalina-black?&logo=WordPress)
+[![](https://img.shields.io/badge/-griger-black?&logo=twitter)](https://twitter.com/_griger)
+[![](https://img.shields.io/badge/-LinkedIn-black?&logo=linkedin)](https://www.linkedin.com/in/gustavo-rivas-gervilla-22510a125/)
+
+### I like problem solving
+
+[![](https://img.shields.io/badge/-Codewars-black?&logo=codewars)](https://www.codewars.com/users/Griger)
+[![](https://img.shields.io/badge/-HackerRank-black?&logo=hackerrank)](https://www.hackerrank.com/griger)
+
+### I also write a little
+
+* My blog about tech & science (in Spanish): [![](https://img.shields.io/badge/-El%20taller%20de%20Fidias-black?&logo=WordPress)](https://eltallerdefidias.wordpress.com/) 
+* The blog where I write poetry and short stories (in Spanish): [![](https://img.shields.io/badge/-Orujo%20y%20limonada%20alcalina-black?&logo=WordPress)](https://orujoylimonadaalcalina.wordpress.com/)
 
 
