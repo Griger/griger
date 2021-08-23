@@ -1,19 +1,14 @@
 # Hi there, it is Gustavo
 
-## 🔡 Languages
+## 🔡 Skills
 
-![](https://img.shields.io/badge/-Python-black?&logo=Python)
+![](https://img.shields.io/badge/-Python-black?&logo=python)
 ![](https://img.shields.io/badge/-C++-black?&logo=cplusplus)
+![](https://img.shields.io/badge/-Java-black?&logo=java)
+![](https://img.shields.io/badge/-R-black?&logo=r)
 
-### Learning
+![](https://img.shields.io/badge/-Android-black?&logo=android)
 
-I always want to learn new things, in this case I am interested in several languages to learn:
-
-![](https://img.shields.io/badge/-Kotlin-black?&logo=Kotlin)
-![](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
-![](https://img.shields.io/badge/-Haskell-black?&logo=Haskell)
-![](https://img.shields.io/badge/-CSS3-black?&logo=CSS3)
-![](https://img.shields.io/badge/-HTML5-black?&logo=html5)
 
 ## 🧰 My toolbox
 
@@ -30,6 +25,28 @@ I always want to learn new things, in this case I am interested in several langu
 * Make it elegant.
 * Make it pretty.
 * Write good documentation.
+
+## 🚧 What I am up to
+
+I am very curious so I would like to learn different technologies, languages and paradigms. Then, I am working on the following projects each of them cover different learning objectives:
+
+* 🎴 [Deck Wizard](https://github.com/Griger/deckWizard): A Magic the Gathering deck analyser with GUI. ![](https://img.shields.io/badge/-Python-black?&logo=python) ![](https://img.shields.io/badge/-Electron-black?&logo=electron)
+  * Improve my Python skill.
+  * Learn about the Electron GUI framework.
+* 🐷 [Piggybank](https://github.com/Griger/piggybank): Expenses and income manager app for Android. ![](https://img.shields.io/badge/-Kotlin-black?&logo=kotlin) ![](https://img.shields.io/badge/-Android-black?&logo=android)
+  * Learn about modern Android app development.
+  * Learn about Kotlin.
+* 💻 [The Udemy curse called "The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) ![](https://img.shields.io/badge/-HTML5-black?&logo=html5) ![](https://img.shields.io/badge/-CSS3-black?&logo=css3) ![](https://img.shields.io/badge/-JavaScript-black?&logo=javascript) ![](https://img.shields.io/badge/-MongoDB-black?&logo=mongodb) ![](https://img.shields.io/badge/-NodeJS-black?&logo=node.js)
+  * Obtain a good basic about the main aspects of web development (see the curse content for details).
+* 🤯 [The cis194 Haskell course](https://www.seas.upenn.edu/~cis194/spring13/lectures.html) ![](https://img.shields.io/badge/-Haskell-black?&logo=haskell)
+  * Learn a new programming paradigm: functional programming.
+  * Learn about the pure functional programming language Haskell which I think is really interesting.
+
+
+## 📚 Currently reading
+
+* [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+* [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
 ## Find me
 
