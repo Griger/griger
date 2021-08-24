@@ -52,8 +52,9 @@ I am very curious so I would like to learn different technologies, languages and
 
 ### Socials
 
-[![](https://img.shields.io/badge/-griger-black?&logo=twitter)](https://twitter.com/_griger)
+[![](https://img.shields.io/badge/-%5fgriger-black?&logo=twitter)](https://twitter.com/_griger)
 [![](https://img.shields.io/badge/-LinkedIn-black?&logo=linkedin)](https://www.linkedin.com/in/gustavo-rivas-gervilla-22510a125/)
+[![](https://img.shields.io/badge/-GoodReads-black?&logo=goodreads)](https://www.goodreads.com/user/show/51178806-gustavo)
 
 ### I like problem solving
 
