@@ -1,4 +1,6 @@
 # Hi there, it is Gustavo
+[![Griger's GitHub stats](https://github-readme-stats.vercel.app/api?username=griger&show_icons=true&hide_border=true&hide_title=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griger&langs_count=10&layout=compact&theme=graywhite&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔡 Skills
 
