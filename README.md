@@ -65,7 +65,6 @@ I am very curious so I would like to learn different technologies, languages and
 
 ### I also write a little
 
-* My blog about tech & science (in Spanish): [![](https://img.shields.io/badge/-El%20taller%20de%20Fidias-black?&logo=WordPress)](https://eltallerdefidias.wordpress.com/) 
-* The blog where I write poetry and short stories (in Spanish): [![](https://img.shields.io/badge/-Orujo%20y%20limonada%20alcalina-black?&logo=WordPress)](https://orujoylimonadaalcalina.wordpress.com/)
+I have a [blog](https://bit.ly/3kxRw2w) where I write poetry and short stories. I also want to write about science and technology.
 
 
