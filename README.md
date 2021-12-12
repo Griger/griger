@@ -55,22 +55,15 @@ I am very curious so I would like to learn different technologies, languages and
 * [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
 * [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
-## Find me
+## I like problem solving
 
-### Socials
+* [![](https://img.shields.io/badge/-Codewars-B1361E?&logo=codewars&logoColor=white)](https://www.codewars.com/users/Griger)
+* [![](https://img.shields.io/badge/-HackerRank-00EA64?&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/griger)
 
-[![](https://img.shields.io/badge/-LinkedIn-black?&logo=linkedin)](https://www.linkedin.com/in/gustavo-rivas-gervilla-22510a125/)
-[![](https://img.shields.io/badge/-%5fgriger-black?&logo=twitter)](https://twitter.com/_griger)
-[![](https://img.shields.io/badge/-El%20taller%20de%20Fidias-black?&logo=instagram)](https://www.instagram.com/eltallerdefidias/)
-[![](https://img.shields.io/badge/-GoodReads-black?&logo=goodreads)](https://www.goodreads.com/user/show/51178806-gustavo)
-
-### I like problem solving
-
-[![](https://img.shields.io/badge/-Codewars-black?&logo=codewars)](https://www.codewars.com/users/Griger)
-[![](https://img.shields.io/badge/-HackerRank-black?&logo=hackerrank)](https://www.hackerrank.com/griger)
-
-### I also write a little
-
-I have a [blog](https://bit.ly/3kxRw2w) where I write poetry and short stories. I also want to write about science and technology.
-
-
+---
+<p align="center">
+<a href="https://www.linkedin.com/in/gustavo-rivas-gervilla-22510a125/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://twitter.com/g_rivasgervilla"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-GoodReads-372213?&logo=goodreads&logoColor=white&style=for-the-badge"/>
+</p>
