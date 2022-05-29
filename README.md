@@ -18,10 +18,17 @@
 ## 🧰 My toolbox
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?&logo=archlinux&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-NeoVim-57A143?&logo=neovim&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-WSL-FCC624?&logo=linux&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu&logoColor=white&style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/-Jet%20Brains%20IDEs-000000?&logo=jetbrains&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Vim-019733?&logo=vim&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white&style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/-Notion-000000?&logo=notion&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Obsidian-483699?&logo=obsidian&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LaTeX-008080?&logo=latex&logoColor=white&style=for-the-badge"/>
 </p>
 
 ## 📋 My guidelines
