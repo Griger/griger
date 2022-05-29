@@ -59,10 +59,10 @@ I am very curious so I would like to learn different technologies, languages and
 * [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
 * [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
-## I like problem solving
+## 🤔 I like problem solving
 
-* [![](https://img.shields.io/badge/-Codewars-B1361E?&logo=codewars&logoColor=white)](https://www.codewars.com/users/Griger)
-* [![](https://img.shields.io/badge/-HackerRank-00EA64?&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/griger)
+* **Codewars**: [![](https://www.codewars.com/users/Griger/badges/micro)](https://www.codewars.com/users/Griger)
+* **HackerRank**: [![](https://img.shields.io/badge/-HackerRank-00EA64?&logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/griger)
 
 ---
 <p align="center">
