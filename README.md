@@ -52,9 +52,6 @@ I am very curious so I would like to learn different technologies, languages and
   * Learn about Kotlin.
 * 💻 [The Udemy course called "The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/-NodeJS-339933?&logo=node.js&logoColor=white)
   * Obtain a good basis about the main aspects of web development (see the course content for details).
-* 🤯 [The cis194 Haskell course](https://www.seas.upenn.edu/~cis194/spring13/lectures.html) ![](https://img.shields.io/badge/-Haskell-5D4F85?&logo=haskell&logoColor=white)
-  * Learn a new programming paradigm: functional programming.
-  * Learn about the pure functional programming language Haskell which I think is really interesting.
 
 
 ## 📚 Currently reading
